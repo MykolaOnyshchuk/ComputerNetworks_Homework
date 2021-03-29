@@ -5,4 +5,4 @@
 4. Transport layer: UDP (User Datagram Protocol)
 5. Session layer
 6. Presentation layer: SSL (Secure Sockets Layer), DH (Diffie–Hellman Protocol)
-7. Application layer: SSH (Secure SHell)
+7. Application layer: SSH (Secure SHell), DNS (Domain Name System)
